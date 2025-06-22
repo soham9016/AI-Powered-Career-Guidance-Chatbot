@@ -45,6 +45,3 @@ CareerSage delivers accessible, personalized, and data-driven career guidance, h
    ```
 4. Run the application: `streamlit run app.py`
 
-## Contributing
-
-Contributions are welcome! Please read the [Contributing Guidelines]() before making a pull request.
