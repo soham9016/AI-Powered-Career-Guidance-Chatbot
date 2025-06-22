@@ -48,10 +48,3 @@ CareerSage delivers accessible, personalized, and data-driven career guidance, h
 ## Contributing
 
 Contributions are welcome! Please read the [Contributing Guidelines]() before making a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-Feel free to reach out with any questions or feedback. Happy job hunting!
